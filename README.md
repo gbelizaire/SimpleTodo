@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Prevent user to enter duplicate Task
+* [x] prevent user from entering duplicate Task
 
 ## Video Walkthrough
 
